@@ -1,2 +1,2 @@
 #Test powershell using vscode
-Get-Command
+Get-WmiObject -Class   win32_operatingsystem
